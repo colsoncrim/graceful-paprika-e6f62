@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {classNames, htmlToReact, withPrefix, markdownify} from '../utils';
+import {classNames, htmlToReact, withPrefix, markdownify, toStyleObj} from '../utils';
 import SectionActions from './SectionActions';
 
 export default class Feature extends React.Component {
@@ -33,14 +33,14 @@ export default class Feature extends React.Component {
         }
         return (
             <React.Fragment>
-                <div className={classNames('feature', {'maxw-medium': is_vert, 'mx-auto': is_vert, 'py-0': padding_y === 'small', 'py-1': padding_y !== 'small', 'py-sm-3': padding_y === 'large'})}>
+                <div className={classNames('feature', {'maxw-medium': is_vert, 'mx-auto': is_vert, 'py-0': padding_y === 'small', 'py-3': padding_y !== 'small', 'py-sm-6': padding_y === 'large'})}>
                 	<div className="item__content grid items-center">
                 		{has_media && (
                 		<div className={classNames('feature__media', 'my-2', 'cell-12', {'cell-md-4': (is_horiz && has_text) && (media_width === 'thirty-three'), 'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
                 			{_.get(feature, 'video_embed_html', null) ? (
                 				htmlToReact(_.get(feature, 'video_embed_html', null))
                 			) : 
-                				<img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} className={classNames({'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
+                				<img style={toStyleObj('box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25)')} src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} className={classNames({'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
                 			}
                 		</div>
                 		)}

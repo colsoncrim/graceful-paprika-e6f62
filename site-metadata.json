@@ -3,11 +3,11 @@
     "style": "classic",
     "palette": "red",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Personal Theme",
-        "logo": "images/logo.svg",
-        "logo_alt": "Alyvia logo",
+        "logo": "images/colsoncrim.png",
+        "logo_alt": "Colson logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -30,8 +30,8 @@
         "has_anncmnt": false
     },
     "footer": {
-        "logo": "images/logo.svg",
-        "logo_alt": "Alyvia logo",
+        "logo": "images/colsoncrim.png",
+        "logo_alt": "Colson logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
