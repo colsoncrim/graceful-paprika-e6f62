@@ -2,14 +2,14 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Colson.'
+    title: 'Design. Build. Improve.'
     subtitle: >-
-      I'm a JavaScript developer, living and working in Seattle.
+      JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer specializing in design and front end development.
     actions:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/Responsive_2 copy.png
+    image: images/hero_2.png
     image_alt: Responsive website
     media_position: right
     media_width: fifty
@@ -33,7 +33,7 @@ sections:
           case studies and product descriptions. No job is too big or small!
         actions:
           - label: View Project
-            url: /faq
+            url: /projects
             style: primary
             has_icon: true
             icon: arrow-right
@@ -80,33 +80,21 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Trusted by Companies Big and Small
-    subtitle: Who I work with
+    title: Tech Stack
+    subtitle: Technologies I use
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
+      - image: images/gatsby.jpg
+        image_alt: Gatsby
         image_align: center
-      - image: images/logo-2.svg
-        image_alt: Logo 2
+      - image: images/sanity.png
+        image_alt: Sanity
         image_align: center
-      - image: images/logo-3.svg
-        image_alt: Logo 3
+      - image: images/netlify.png
+        image_alt: Netlify
         image_align: center
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Logo 7
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Logo 8
+      - image: images/react.png
+        image_alt: React
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium

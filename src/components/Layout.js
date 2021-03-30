@@ -39,25 +39,8 @@ export default class Body extends React.Component {
                             <meta key={meta_idx + '.1'} {...(attribute(key_name, _.get(meta, 'name', null)))} content={_.get(meta, 'value', null)}/>
                         )
                     })}
-                    {(style === 'bold') ? (
-                      (font === 'serif') ? (
-                      <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/> 
-                      ) : 
-                      <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
-                    ) : ((style === 'classic') ? (
-                      (font === 'serif') ? (
-                      <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
-                      ) : 
-                      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
-                    ) : 
-                      (font === 'serif') ? (
-                      <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
-                      ) : 
-                      <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
-                    )}
-                    {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
-                    <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
-                    )}
+                      <link rel="preconnect" href="https://fonts.gstatic.com"/>
+                      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet"></link>
                     <body className={'layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_type', null) + ' style-' + _.get(this.props, 'pageContext.site.siteMetadata.style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' mode-' + _.get(this.props, 'pageContext.site.siteMetadata.mode', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
                 </Helmet>
                 <div id="site-wrap" className="site">

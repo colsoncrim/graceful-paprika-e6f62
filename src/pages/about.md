@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About
-  description: This is the about page
+  description: Learn more about me
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +14,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/linkedin_picture.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -24,23 +24,23 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/linkedin_picture.png
       relativeUrl: true
 template: page
 ---
 
-![A woman using a laptop](/images/about.jpg)
+![Colson's headshot](/images/linkedin_picture.png)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+I'm a jamstack developer living and working in the Seattle metro area. I use modern technologies to create blazing fast websites that scale with ease, and are very maintainable.
 
 ## Credentials
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+I've been working in software development for the last two years at a fin-tech startup here in Seattle. This has provided a solid foundation of understanding in the world of tech, and has taught me how to develop a product the right way.
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+On my own time, I became interested in leveraging new frameworks and tools to create modern interfaces for businesses.
 
 
 
-## Writing for Action
+## Coding for Action
 
 I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
