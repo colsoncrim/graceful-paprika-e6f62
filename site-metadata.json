@@ -6,7 +6,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Personal Theme",
-        "logo": "images/Jamstack developer.svg",
+        "logo": "images/jamstack_developer_2.svg",
         "logo_alt": "Colson logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -30,7 +30,7 @@
         "has_anncmnt": false
     },
     "footer": {
-        "logo": "images/Jamstack developer.svg",
+        "logo": "images/jamstack_developer_2.svg",
         "logo_alt": "Colson logo",
         "has_primary_nav": true,
         "primary_nav_links": [
