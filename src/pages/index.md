@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Design. Build. Improve.'
     subtitle: >-
-      JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer specializing in design and front end development.
+      JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer that excels in execution of design, and frontend development.
     actions:
       - label: Contact Me
         url: /contact
