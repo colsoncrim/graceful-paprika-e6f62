@@ -189,6 +189,18 @@ img {
 	max-width: 100%;
 }
 
+@media (max-width: 600px) {
+	.item__media img {
+		max-width: 50%;
+	}
+}
+
+@media (max-width: 800px) {
+	.item__media img {
+		max-width: 60%;
+	}
+}
+
 figure {
 	margin: 0 0 1em;
 }

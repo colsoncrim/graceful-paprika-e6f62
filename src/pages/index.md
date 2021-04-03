@@ -84,17 +84,17 @@ sections:
     subtitle: Technologies I use
     align: center
     grid_items:
-      - image: images/Gatsby_Logo_Black.svg
+      - image: images/Gatsby_Logo.svg
         image_alt: Gatsby
         image_align: center
-      - image: images/dato_black_full_logo.svg
-        image_alt: Sanity
-        image_align: center
-      - image: images/ghost-logo-dark.png
+      - image: images/netlify_logo_3.png
         image_alt: Netlify
         image_align: center
-      - image: images/contentful.png
+      - image: images/react_3.png
         image_alt: React
+        image_align: center
+      - image: images/strapi_logo.svg
+        image_alt: Strapi
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
