@@ -2,14 +2,14 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Design. Build. Improve.'
+    title: 'Design. Build. Launch.'
     subtitle: >-
-      JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer that excels in execution of design, and frontend development.
+      JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer, leveraging modern technologies to create products that users love.
     actions:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/hero_2.png
+    image: images/code_hero_2.png
     image_alt: Responsive website
     media_position: right
     media_width: fifty
@@ -84,16 +84,16 @@ sections:
     subtitle: Technologies I use
     align: center
     grid_items:
-      - image: images/gatsby.jpg
+      - image: images/Gatsby_Logo_Black.svg
         image_alt: Gatsby
         image_align: center
-      - image: images/sanity.png
+      - image: images/dato_black_full_logo.svg
         image_alt: Sanity
         image_align: center
-      - image: images/netlify.png
+      - image: images/ghost-logo-dark.png
         image_alt: Netlify
         image_align: center
-      - image: images/react.png
+      - image: images/contentful.png
         image_alt: React
         image_align: center
     grid_cols: four
@@ -144,14 +144,14 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Stackbit Personal Theme
+  title: Colson Crim | JAMstack developer
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: Colson Crim | JAMstack developer
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
@@ -163,7 +163,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: Colson Crim | JAMstack developer
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
