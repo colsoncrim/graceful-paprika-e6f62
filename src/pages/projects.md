@@ -18,7 +18,7 @@ sections:
           case studies and product descriptions. No job is too big or small!
         actions:
           - label: View Project
-            url: /projects
+            url: /coming-soon
             style: primary
             has_icon: true
             icon: arrow-right
@@ -35,7 +35,7 @@ sections:
           ecommerce platform.
         actions:
           - label: View Project
-            url: /about
+            url: /coming-soon
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -52,7 +52,7 @@ sections:
           documentation, pamphlets, manuals and technical documents.
         actions:
           - label: View Project
-            url: /faq
+            url: /coming-soon
             style: primary
             has_icon: true
             icon: arrow-right

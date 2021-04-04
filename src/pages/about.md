@@ -35,12 +35,13 @@ I'm a jamstack developer living and working in the Seattle metro area. I use mod
 
 ## Credentials
 
-I've been working in software development for the last two years at a fin-tech startup here in Seattle. This has provided a solid foundation of understanding in the world of tech, and has taught me how to develop a product the right way.
+I've been working in software development for the last two years at a fin-tech startup here in Seattle. This has provided me with a solid foundation of understanding in the world of tech, and has taught me how to develop a product the right way.
 
-On my own time, I became interested in leveraging new frameworks and tools to create modern interfaces for businesses.
+On my own time, I became interested in leveraging frontend Javascript along with it's new frameworks and tools to create modern interfaces for growing businesses.
 
 
 
-## Coding for Action
+## JavaScript Focused
+I began my web development journey in 2018 by enrolling in a coding bootcamp. This is when I was first introduced to React, Node.js, and the JavaScript ecosystem. I realized that I could make a career out of learning just one language that covered all things front and backend. 
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+Later on, my interests shifted to learning about the JAMstack and all of the technologies surrounding it. I began diving into new technologies like Gatsby and GraphQL, which have been my two latest obsessions. There is plenty more to learn, and I look forward to keeping my skills sharp, and transforming the way we think about web development.

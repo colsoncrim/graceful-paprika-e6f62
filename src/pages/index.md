@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Design. Build. Launch.'
+    title: 'Design. Build. Deploy.'
     subtitle: >-
       JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer, leveraging modern technologies to create products that users love.
     actions:
@@ -33,7 +33,7 @@ sections:
           case studies and product descriptions. No job is too big or small!
         actions:
           - label: View Project
-            url: /projects
+            url: /coming-soon
             style: primary
             has_icon: true
             icon: arrow-right
@@ -50,7 +50,7 @@ sections:
           ecommerce platform.
         actions:
           - label: View Project
-            url: /about
+            url: /coming-soon
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -67,7 +67,7 @@ sections:
           documentation, pamphlets, manuals and technical documents.
         actions:
           - label: View Project
-            url: /faq
+            url: /coming-soon
             style: primary
             has_icon: true
             icon: arrow-right
@@ -104,8 +104,7 @@ sections:
       ## Let's talk
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      If you have any questions, please fill out this form and I will get in touch with you as soon as I can.
     content_align: left
     form_position: right
     form_width: fifty
