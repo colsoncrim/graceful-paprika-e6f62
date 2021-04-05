@@ -25,7 +25,7 @@ sections:
     title: My Projects
     subtitle: See what I've been up to
     features:
-      - title: Marketing Playbook
+      - title: Stackbit Example 1
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
@@ -42,7 +42,7 @@ sections:
         image_alt: Project 1 illustration
         media_position: right
         media_width: sixty
-      - title: Example.com
+      - title: Stackbit Example 2
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
           Managing an online business is a full-time job. I will make sure your
@@ -55,25 +55,23 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/project_2.png
+        image: images/project_3.png
         image_alt: Project 2 illustration
         media_position: right
         media_width: sixty
-      - title: Project 3
-        subtitle: 'Your products and services, at scale.'
+      - title: Coding Blog
+        subtitle: 'Example blog website using modern JAMstack technologies.'
         content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+          JAMstack website built with Gatsby and React. Uses GraphQL to query markdown files to pull in data for each blog post.
         actions:
           - label: View Project
-            url: /coming-soon
+            url: https://gatsby-coding-blog.netlify.app/
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/project_3.png
-        image_alt: Project 3 illustration
+        image: images/coding_blog.png
+        image_alt: Blog screenshot
         media_position: right
         media_width: sixty
     feature_padding_vert: large
