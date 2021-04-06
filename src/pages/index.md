@@ -142,7 +142,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Colson Crim | JAMstack developer
-  description: The preview of the Personal theme
+  description: colsoncrim.dev
   extra:
     - name: 'og:type'
       value: website
@@ -151,7 +151,7 @@ seo:
       value: Colson Crim | JAMstack developer
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: colsoncrim.dev
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
@@ -162,7 +162,7 @@ seo:
     - name: 'twitter:title'
       value: Colson Crim | JAMstack developer
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: colsoncrim.dev
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true

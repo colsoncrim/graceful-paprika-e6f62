@@ -19,6 +19,12 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
+                    <meta name="description" content="colsoncrim.dev" />
+                    <meta name="title" property="og:title" content="colsoncrim.dev" />
+                    <meta property="og:type" content="Website" />
+                    <meta name="image" property="og:image" content="https://live.staticflickr.com/65535/51099874340_13d4570446_k.jpg" />
+                    <meta name="description" property="og:description" content="colsoncrim.dev" />
+                    <meta name="author" content="Colson Crim" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                     <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')}/>
