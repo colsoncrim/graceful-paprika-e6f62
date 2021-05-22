@@ -31,7 +31,7 @@ template: page
 
 ![Colson's headshot](/images/linkedin_picture.png)
 
-I'm a jamstack developer living and working in the Seattle metro area. I use modern technologies to create blazing fast websites that scale with ease, and are very maintainable.
+I'm a web developer living and working in the Seattle metro area. I use modern technologies to create blazing fast websites that scale with ease, and are very maintainable.
 
 ## Credentials
 

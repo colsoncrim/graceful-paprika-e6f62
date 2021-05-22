@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Design. Build. Deploy.'
     subtitle: >-
-      JAMstack developer making fast, scalable, and maintainable websites. I'm an experienced developer, leveraging modern technologies to create products that users love.
+      Web developer making fast, scalable, and maintainable websites. I'm an experienced developer, leveraging modern technologies to create products that users love.
     actions:
       - label: Contact Me
         url: /contact
@@ -26,7 +26,7 @@ sections:
     subtitle: See what I've been up to
     features:
       - title: Optimal Strength
-        subtitle: 'Template website for CrossFit gym'
+        subtitle: 'Template website for CrossFit gyms.'
         content: >-
           This template website was made with HTML, CSS, and React. It features
           a mobile-friendly, responsive design with custom components. It's
@@ -43,12 +43,12 @@ sections:
         image_alt: Project 1 illustration
         media_position: right
         media_width: sixty
-      - title: Stackbit Example 2
-        subtitle: 'Product updates, inventory and pricing.'
+      - title: Pacifica Coffee Roasters
+        subtitle: 'Template website for coffee shops.'
         content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+          Pacifica Coffee Roasters is my first attempt at Wordpress development!
+          It provides a clean layout for local coffee shops to showcase their products
+          and menu.
         actions:
           - label: View Project
             url: /coming-soon
@@ -56,7 +56,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/project_3.png
+        image: images/project_2.png
         image_alt: Project 2 illustration
         media_position: right
         media_width: sixty
@@ -142,14 +142,14 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Colson Crim | JAMstack developer
+  title: Colson Crim | Web developer
   description: colsoncrim.dev
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Colson Crim | JAMstack developer
+      value: Colson Crim | Web developer
       keyName: property
     - name: 'og:description'
       value: colsoncrim.dev
@@ -161,7 +161,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Colson Crim | JAMstack developer
+      value: Colson Crim | Web developer
     - name: 'twitter:description'
       value: colsoncrim.dev
     - name: 'twitter:image'

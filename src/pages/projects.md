@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: My Projects
-    subtitle: Here's a few JAMstack websites I've built
+    subtitle: A few websites I've built
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -28,12 +28,12 @@ sections:
         image_alt: Project 1 illustration
         media_position: right
         media_width: sixty
-      - title: Stackbit Example 2
-        subtitle: 'Product updates, inventory and pricing.'
+      - title: Pacifica Coffee Roasters
+        subtitle: 'Template website for coffee shops.'
         content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+          Pacifica Coffee Roasters is my first attempt at Wordpress development!
+          It provides a clean layout for local coffee shops to showcase their products
+          and menu.
         actions:
           - label: View Project
             url: /coming-soon
@@ -41,7 +41,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/project_3.png
+        image: images/project_2.png
         image_alt: Project 2 illustration
         media_position: right
         media_width: sixty
