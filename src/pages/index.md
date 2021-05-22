@@ -25,12 +25,13 @@ sections:
     title: My Projects
     subtitle: See what I've been up to
     features:
-      - title: Stackbit Example 1
-        subtitle: 'Website, blog, social media and more.'
+      - title: Optimal Strength
+        subtitle: 'Template website for CrossFit gym'
         content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+          This template website was made with HTML, CSS, and React. It features
+          a mobile-friendly, responsive design with custom components. It's
+          simple layout makes for a great starter for anyone looking to get a head
+          start on building out their website.
         actions:
           - label: View Project
             url: /coming-soon
