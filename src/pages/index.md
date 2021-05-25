@@ -34,7 +34,7 @@ sections:
           start on building out their website.
         actions:
           - label: View Project
-            url: /coming-soon
+            url: https://optimalstrength.netlify.app/
             style: primary
             has_icon: true
             icon: arrow-right
