@@ -28,23 +28,6 @@ sections:
         image_alt: Project 1 illustration
         media_position: right
         media_width: sixty
-      - title: Pacifica Coffee Roasters
-        subtitle: 'Template website for coffee shops.'
-        content: >-
-          Pacifica Coffee Roasters is my first attempt at Wordpress development!
-          It provides a clean layout for local coffee shops to showcase their products
-          and menu.
-        actions:
-          - label: View Project
-            url: /coming-soon
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/project_2.png
-        image_alt: Project 2 illustration
-        media_position: right
-        media_width: sixty
       - title: Coding Blog
         subtitle: 'Example blog website using modern JAMstack technologies.'
         content: >-
@@ -58,6 +41,23 @@ sections:
             icon_position: right
         image: images/coding_blog.png
         image_alt: Coding blog screenshot
+        media_position: right
+        media_width: sixty
+      - title: Hunter Crim Real Estate
+        subtitle: 'Website to showcase individual real estate listings.'
+        content: >-
+          Hunter Crim Real Estate is my first attempt at Wordpress development!
+          It provides a clean layout for agents to showcase listings, and a "services"
+          page that describes all services offered by the agent.
+        actions:
+          - label: View Project
+            url: https://huntercrimrealestate.wordpress.com/
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/hc_realestate.png
+        image_alt: Project 3 illustration
         media_position: right
         media_width: sixty
     feature_padding_vert: large
